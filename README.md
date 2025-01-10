@@ -1,3 +1,3 @@
 # KDE-NEON-Screenshot
-firefox kurulumu
-![Ekran görüntüsü 2025-01-10 164646](https://github.com/user-attachments/assets/b868f81e-0f73-44b6-aec9-4fd78b8f8b18)
+Simplenote kurulumu
+![Ekran görüntüsü 2025-01-10 182556](https://github.com/user-attachments/assets/efeb3148-04c0-420c-bf0c-d1d63334ee95)
